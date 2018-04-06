@@ -18,6 +18,23 @@ reversed-strings: Function
 * Behavior: It takes a string and reverses it
 
 
+Useful Info:
+* # of letters
+* space(s)
+* strings with dashes
+* strings with apostrophe
+* even or odd letters in the string
+* lenght
+* are inputs strings or not? 
+
+But the one and only notes is a string or not ! 
+
+
+function reversed-strings(str){
+  let returner = true;
+  let table = {};
+
+
 ### Index
 * [Solution Process](#solution-process)
 * [Solution Explanation](#solution-explanation)
